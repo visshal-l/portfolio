@@ -17,21 +17,23 @@ An interactive, modern personal portfolio featuring stunning 3D effects, smooth 
 
 Check out the live portfolio here: [**Live Preview**](https://visshal-l.github.io/portfolio/)  
 
-![Portfolio Screenshot](screenshot.png) <!-- Replace with an actual screenshot -->
+![image](https://github.com/user-attachments/assets/e74a60ef-60a5-4be5-8be6-8e7bf818acb5)
+
 
 ## 📂 Getting Started  
 
-```sh
-git clone https://github.com/visshal-l/3d-portfolio.git
+
+**git clone https://github.com/visshal-l/3d-portfolio.git
 cd 3d-portfolio
-Simply open index.html in your browser—no additional setup required.
+Simply open index.html in your browser—no additional setup required.**
+
 
 📁 File Structure
-
 📦 3d-portfolio
 ├── index.html  # Main HTML structure
 ├── style.css   # Styles and animations
 ├── script.js   # Smooth scrolling, scroll reveal, and 3D effects
+
 ✨ Customization
 Projects: Modify project details directly in index.html.
 
@@ -43,9 +45,7 @@ Branding: Personalize the logo and hero text for a unique touch.
 
 🎨 Credits
 Pexels – Background images
-
 Devicon – Technology icons
-
 Google Fonts – Typography
 
 📜 License
